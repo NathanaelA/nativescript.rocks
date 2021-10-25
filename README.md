@@ -6,9 +6,8 @@ This covers the Sites:
 - http://Plugins.NativeScript.rocks
 - http://Images.NativeScript.rocks
 
-
 ## Support or suggestions:
 Please create a support ticket and we will attempt to handle it.   Thank you for your interest in this project.
 
 ### Copyright
-(c) 2015-2017, [Master Technology](http://master.technology).
+(c) 2015-2021, [Master Technology](http://master.technology).
